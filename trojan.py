@@ -1,8 +1,3 @@
-#############################
-# Python para Pentesters    #
-# solyd.com.br/treinamentos #
-#############################
-
 import socket
 import time
 import subprocess
